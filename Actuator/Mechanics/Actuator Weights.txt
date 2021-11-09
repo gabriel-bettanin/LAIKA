@@ -1,0 +1,7 @@
+BLDC Motor - 442.8g
+Sun Gear - 48.5g
+Planet gear - 119.7g, 119.8g, 120.2g
+Planet carrier - 446.1g
+Ring gear - 181.3g
+
+Total = 1478.4g

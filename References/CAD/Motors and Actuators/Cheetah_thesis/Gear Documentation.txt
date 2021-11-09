@@ -1,0 +1,13 @@
+All gears in the final gearbox assembly were sampled from KHK-USA, and required some post-machining:
+
+Ring gear:
+Part#:  SI0.5-100
+Operations:  Turn down OD to 55 mm from 75 mm
+
+Planets:
+Part#:  SS0.5-40A
+Operations:  Bore ID to 12mm.  Face off hub.  Lightly press in planet bearing w/ retaining compound.
+
+Sun:
+Part#:  SS0.5-20A
+Operations:  Bore/ream ID to a a tight press on a 6mm shaft.  Press onto shaft w/ retaining compound.
